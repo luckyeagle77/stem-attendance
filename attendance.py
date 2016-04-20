@@ -25,3 +25,5 @@ while True:
     	    print('%s checked in - %s' % (student_info[s_id], time.strftime("%I:%M %p")))
     except KeyError:
         print("Invalid ID number")
+
+# Adding random comments for the lulz.
