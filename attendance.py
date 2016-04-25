@@ -1,5 +1,5 @@
 __author__ = 'student'
-
+# Comments look like this
 import time
 import pickle
 
