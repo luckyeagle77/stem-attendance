@@ -19,6 +19,7 @@ while True:
                         roster[key]['absent'].append(time.strftime("%m/%d"))
                 with open('students.p', 'wb') as p_file:
                     pickle.dump(roster, p_file)
+                    #i sort of get dump but not quite fully.
             break
 
         else:
